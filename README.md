@@ -42,14 +42,14 @@ Silver Tree Solutions is a premium software development studio founded by **Reth
 ## 🏢 Founders
 
 ### Rethabile Velelo
-- **Co-Founder & Technical Director**
+- **Founder & Front End Developer**
 - 📱 064 678 5516
 - 📧 silvertreesolutions@gmail.com
 - [GitHub](https://github.com/RethabileBridgetVelelo)
 - [LinkedIn](https://www.linkedin.com/in/rethabile-bridget-velelo-2a73062a4/)
 
 ### Dylan Gorrah
-- **Co-Founder & Lead Engineer**
+- **Founder & Back End Developer**
 - 📱 067 702 0221
 - 📧 silvertreesolution@gmail.com
 - [GitHub](https://github.com/Dylan-Gorrah)
