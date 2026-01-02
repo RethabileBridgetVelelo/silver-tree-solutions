@@ -2,7 +2,6 @@
 
 **Engineering intelligence. Designing the future.**
 
-![STS Banner](https://via.placeholder.com/1200x400/0a0a0a/1b6572?text=Silver+Tree+Solutions)
 
 ## 🚀 About Us
 
@@ -56,19 +55,4 @@ Silver Tree Solutions is a premium software development studio founded by **Reth
 - [GitHub](https://github.com/Dylan-Gorrah)
 - [LinkedIn](https://www.linkedin.com/in/dylan-gorrah-45aa07282/)
 
-## 📁 Project Structure
-silver-tree-solutions/
-├── index.html # Main website
-├── style.css # All styling
-├── script.js # All functionality
-├── README.md # This file
-├── LICENSE # MIT License
-└── .gitignore # Git ignore rules
 
----
-
-## 🚀 Quick Start
-
-1. **Clone the repository:**
-```bash
-git clone https://github.com/your-username/silver-tree-solutions.git
